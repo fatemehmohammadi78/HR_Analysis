@@ -1,1 +1,1 @@
-# HR_Analysis
+![Dashboard Preview](Screenshot_dashboard.png)
